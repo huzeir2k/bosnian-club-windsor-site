@@ -1,5 +1,5 @@
 <script setup>
-import Index from './components/index.vue'
+import HomePage from './pages/HomePage.vue';
 </script>
 
 <template>
@@ -8,7 +8,7 @@ import Index from './components/index.vue'
   </header>
 
   <main>
-    <Index />
+    <HomePage />
   </main>
 </template>
 

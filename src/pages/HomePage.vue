@@ -12,6 +12,13 @@
         <li><router-link to="/">Home</router-link></li>
         <li><router-link to="/events">Events</router-link></li>
         <li><router-link to="/about">About</router-link></li>
+        <li><router-link to="/contact">Contact</router-link></li>
+        <li><router-link to="/gallery">Gallery</router-link></li>
+        <li><router-link to="/donate">Donate</router-link></li>
+        <li><router-link to="/membership">Membership</router-link></li>
+        <li><router-link to="/resources">Resources</router-link></li>
+        <li><router-link to="/blog">Blog</router-link></li>
+        <li><router-link to="/faq">FAQ</router-link></li>
         <!-- Add more navigation links as needed -->
       </ul>
     </nav>
