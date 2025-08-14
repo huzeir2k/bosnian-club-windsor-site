@@ -1,4 +1,100 @@
-// en.json
 {
-    "greeting": "Hello, welcome to our website!"
+    "greeting": "Hello, welcome to our website!",
+    "home": {
+        "title": "Bosnian Club Windsor",
+        "welcome": "Welcome to the Bosnian Community of Windsor",
+        "description": "Preserving our culture and building connections since 1995",
+        "highlights": [
+            "Cultural Events",
+            "Community Support",
+            "Educational Programs",
+            "Social Gatherings"
+        ]
+    },
+    "about": {
+        "title": "About Us",
+        "mission": "Our mission is to preserve and promote Bosnian culture in Windsor",
+        "history": "Established in 1995, our club has been serving the Bosnian community for over 25 years",
+        "values": [
+            "Community",
+            "Culture",
+            "Education",
+            "Unity"
+        ]
+    },
+    "contact": {
+        "title": "Contact Us",
+        "address": "123 Main Street, Windsor, ON",
+        "email": "info@bosnianclubwindsor.ca",
+        "phone": "(519) 555-0123",
+        "hours": "Monday to Friday: 9 AM - 5 PM"
+    },
+    "donate": {
+        "title": "Support Our Community",
+        "description": "Help us continue our community programs and cultural initiatives",
+        "methods": [
+            "E-transfer",
+            "Credit Card",
+            "Cash Donation"
+        ]
+    },
+    "events": {
+        "title": "Upcoming Events",
+        "calendar": [
+            {
+                "name": "Cultural Festival",
+                "date": "July 2023",
+                "description": "Annual celebration of Bosnian culture"
+            },
+            {
+                "name": "Community Dinner",
+                "date": "August 2023",
+                "description": "Monthly gathering and traditional dinner"
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Photo Gallery",
+        "categories": [
+            "Events",
+            "Community",
+            "History",
+            "Celebrations"
+        ]
+    },
+    "membership": {
+        "title": "Join Our Community",
+        "benefits": [
+            "Access to events",
+            "Community support",
+            "Voting rights",
+            "Newsletter subscription"
+        ],
+        "fees": {
+            "individual": "$50/year",
+            "family": "$80/year",
+            "student": "$30/year"
+        }
+    },
+    "resources": {
+        "title": "Community Resources",
+        "categories": [
+            {
+                "name": "New Arrivals",
+                "items": [
+                    "Settlement Services",
+                    "Language Support",
+                    "Housing Information"
+                ]
+            },
+            {
+                "name": "Cultural Resources",
+                "items": [
+                    "Language Classes",
+                    "Traditional Recipes",
+                    "History Documents"
+                ]
+            }
+        ]
+    }
 }

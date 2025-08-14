@@ -1,4 +1,102 @@
-// bs.json
-{
-    "greeting": "Zdravo, dobrodošli na našu web stranicu!"
+[
+    {
+    "greeting": "Dobro došli na našu web stranicu!",
+    "home": {
+        "title": "Bosanski Klub Windsor",
+        "welcome": "Dobro došli u Bosansku Zajednicu Windsor",
+        "description": "Čuvamo našu kulturu i gradimo veze od 1995. godine",
+        "highlights": [
+            "Kulturni događaji",
+            "Podrška zajednici",
+            "Obrazovni programi",
+            "Društvena okupljanja"
+        ]
+    },
+    "about": {
+        "title": "O nama",
+        "mission": "Naša misija je očuvanje i promocija bosanske kulture u Windsoru",
+        "history": "Osnovan 1995. godine, naš klub služi bosanskoj zajednici više od 25 godina",
+        "values": [
+            "Zajednica",
+            "Kultura",
+            "Obrazovanje",
+            "Jedinstvo"
+        ]
+    },
+    "contact": {
+        "title": "Kontaktirajte nas",
+        "address": "123 Main Street, Windsor, ON",
+        "email": "info@bosnianclubwindsor.ca",
+        "phone": "(519) 555-0123",
+        "hours": "Ponedjeljak do Petak: 9 ujutro - 5 popodne"
+    },
+    "donate": {
+        "title": "Podržite našu zajednicu",
+        "description": "Pomozite nam da nastavimo naše programe i kulturne inicijative",
+        "methods": [
+            "E-transfer",
+            "Kreditna kartica",
+            "Gotovina"
+        ]
+    },
+    "events": {
+        "title": "Predstojeći događaji",
+        "calendar": [
+            {
+                "name": "Kulturni festival",
+                "date": "Juli 2023",
+                "description": "Godišnja proslava bosanske kulture"
+            },
+            {
+                "name": "Zajednička večera",
+                "date": "August 2023",
+                "description": "Mjesečno okupljanje i tradicionalna večera"
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Foto galerija",
+        "categories": [
+            "Događaji",
+            "Zajednica",
+            "Historija",
+            "Proslave"
+        ]
+    },
+    "membership": {
+        "title": "Pridružite se našoj zajednici",
+        "benefits": [
+            "Pristup događajima",
+            "Podrška zajednice",
+            "Pravo glasa",
+            "Pretplata na bilten"
+        ],
+        "fees": {
+            "individual": "50$/godišnje",
+            "family": "80$/godišnje",
+            "student": "30$/godišnje"
+        }
+    },
+    "resources": {
+        "title": "Resursi zajednice",
+        "categories": [
+            {
+                "name": "Novi doseljenici",
+                "items": [
+                    "Usluge za doseljenike",
+                    "Jezička podrška",
+                    "Informacije o stanovanju"
+                ]
+            },
+            {
+                "name": "Kulturni resursi",
+                "items": [
+                    "Časovi jezika",
+                    "Tradicionalni recepti",
+                    "Historijski dokumenti"
+                ]
+            }
+        ]
+    }
 }
+]

@@ -34,9 +34,9 @@
 </template>
 
 <script>
-import Header from './components/Header.vue'; // Import the Header component
-import Footer from './components/Footer.vue'; // Import the Footer component
-import LanguageToggle from './components/LanguageToggle.vue'; // Import the LanguageToggle component
+import Header from '../components/Header.vue'; // Import the Header component
+import Footer from '../components/Footer.vue'; // Import the Footer component
+import LanguageToggle from '../components/LanguageToggle.vue'; // Import the LanguageToggle component
 
 export default {
   name: 'Index',

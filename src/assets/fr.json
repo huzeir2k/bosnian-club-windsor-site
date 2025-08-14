@@ -1,0 +1,100 @@
+{
+    "greeting": "Bonjour, bienvenue sur notre site web!",
+    "home": {
+        "title": "Club Bosniaque de Windsor",
+        "welcome": "Bienvenue à la communauté bosniaque de Windsor",
+        "description": "Préserver notre culture et créer des liens depuis 1995",
+        "highlights": [
+            "Événements culturels",
+            "Soutien communautaire",
+            "Programmes éducatifs",
+            "Rassemblements sociaux"
+        ]
+    },
+    "about": {
+        "title": "À propos",
+        "mission": "Notre mission est de préserver et promouvoir la culture bosniaque à Windsor",
+        "history": "Établi en 1995, notre club sert la communauté bosniaque depuis plus de 25 ans",
+        "values": [
+            "Communauté",
+            "Culture",
+            "Éducation",
+            "Unité"
+        ]
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "address": "123 rue Principale, Windsor, ON",
+        "email": "info@bosnianclubwindsor.ca",
+        "phone": "(519) 555-0123",
+        "hours": "Lundi au vendredi: 9h à 17h"
+    },
+    "donate": {
+        "title": "Soutenez notre communauté",
+        "description": "Aidez-nous à poursuivre nos programmes communautaires et nos initiatives culturelles",
+        "methods": [
+            "Virement électronique",
+            "Carte de crédit",
+            "Don en argent comptant"
+        ]
+    },
+    "events": {
+        "title": "Événements à venir",
+        "calendar": [
+            {
+                "name": "Festival culturel",
+                "date": "Juillet 2023",
+                "description": "Célébration annuelle de la culture bosniaque"
+            },
+            {
+                "name": "Souper communautaire",
+                "date": "Août 2023",
+                "description": "Rassemblement mensuel et souper traditionnel"
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Galerie de photos",
+        "categories": [
+            "Événements",
+            "Communauté",
+            "Histoire",
+            "Célébrations"
+        ]
+    },
+    "membership": {
+        "title": "Joignez-vous à notre communauté",
+        "benefits": [
+            "Accès aux événements",
+            "Soutien communautaire",
+            "Droit de vote",
+            "Abonnement à l'infolettre"
+        ],
+        "fees": {
+            "individual": "50$/année",
+            "family": "80$/année",
+            "student": "30$/année"
+        }
+    },
+    "resources": {
+        "title": "Ressources communautaires",
+        "categories": [
+            {
+                "name": "Nouveaux arrivants",
+                "items": [
+                    "Services d'établissement",
+                    "Soutien linguistique",
+                    "Information sur le logement"
+                ]
+            },
+            {
+                "name": "Ressources culturelles",
+                "items": [
+                    "Cours de langue",
+                    "Recettes traditionnelles",
+                    "Documents historiques"
+                ]
+            }
+        ]
+    }
+}
