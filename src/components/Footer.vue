@@ -53,10 +53,10 @@ export default {
 
 <style scoped>
 .footer {
-  background-color: #1a1a1a;
-  color: #cccccc;
-  border-top: 1px solid #333;
-  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #000;
+  font-family: 'Georgia', serif;
+  border-top: 2px solid #003897;
 }
 
 .footer-container {
@@ -71,13 +71,14 @@ export default {
 .footer-links {
   display: flex;
   flex: 2;
-  gap: 40px;
+  gap: 60px;
 }
 
 .footer-column h3 {
-  color: #ffffff;
-  margin-bottom: 10px;
+  color: #003897;
+  margin-bottom: 15px;
   font-size: 1.2rem;
+  font-weight: bold;
 }
 
 .footer-column ul {
@@ -86,47 +87,54 @@ export default {
 }
 
 .footer-column ul li {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .footer-column ul li a {
-  color: #cccccc;
+  display: inline-block;
+  padding: 6px 12px;
+  color: #000;
   text-decoration: none;
-  transition: color 0.2s ease-in-out;
+  border-radius: 20px;
+  transition: all 0.3s ease;
 }
 
 .footer-column ul li a:hover {
-  color: #ffffff;
+  background-color: #003897;
+  color: #fff;
 }
 
 .contact-card {
-  background-color: #262626;
+  background-color: #fbc11d;
   padding: 20px;
-  border-radius: 6px;
+  border-radius: 8px;
   flex: 1;
   min-width: 250px;
+  color: #000;
 }
 
 .contact-card h3 {
-  color: #ffffff;
   margin-bottom: 10px;
 }
 
 .footer-bottom {
-  background-color: #111111;
-  color: #777777;
+  background-color: #003897;
+  color: #fff;
   text-align: center;
   padding: 15px;
   font-size: 0.9rem;
-  border-top: 1px solid #222;
+  margin-top: 20px;
 }
 
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;
+    gap: 30px;
   }
   .footer-links {
     flex-direction: column;
+    gap: 20px;
   }
 }
 </style>
+
