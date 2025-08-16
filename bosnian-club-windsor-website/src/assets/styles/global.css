@@ -1,0 +1,50 @@
+:root {
+  --color-primary: #043c93;       /* Primary accent */
+  --color-secondary: #f8c21e;     /* Secondary accent */
+  --color-letter: #37567c;        /* Letter accent */
+  --color-background: #ffffff;    /* Background */
+  --font-base: 'Arial', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-background);
+  color: var(--color-letter);
+  font-family: var(--font-base);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--color-primary);
+  margin: 0 0 1rem 0;
+}
+
+p {
+  color: var(--color-letter);
+  margin: 0 0 1rem 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+button {
+  background-color: var(--color-primary);
+  color: var(--color-background);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
